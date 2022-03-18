@@ -4,7 +4,7 @@ The BSC token sniper listens for new blocks on BSC relating to the pancake swap 
 
 ## Donations
 This is a free project but any funding is appricated.
-ETH/BNB: 0x71f74dEbb7fd42E61de32256537284E06DE8812d
+ETH/BNB: 0x79369eA75b9e79656bF8fE3e7AFF6B0E0f37B12D
 
 ## Socials
 Telegram: https://t.me/PancakeTokenSniper
