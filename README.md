@@ -53,7 +53,7 @@ The Sniper automatically sells once a certain percentage of profit is made. This
 This is a closed code project because of the future "dev fee", in order to contribute please open issues and suggestions :)
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/JayArrowz/PancakeTokenSniper/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MrNyos/TokenLiquiditySniper/tags). 
 
 ## Authors
 * **MrNyos**
