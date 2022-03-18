@@ -65,3 +65,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 - Persist bought assets on Postgres
 - Target specific token addresses & detect when locked
 - Check for Renounce ownership
+- Improved honeypot detection.
+- Improved rug checks.
+- Improved liqudity checks.
+- Trailing stoploss.
