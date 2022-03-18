@@ -6,9 +6,6 @@ The BSC token sniper listens for new blocks on BSC relating to the pancake swap 
 This is a free project but any funding is appricated.
 ETH/BNB: 0x79369eA75b9e79656bF8fE3e7AFF6B0E0f37B12D
 
-## Prerequisites
-* [Net5.0](https://dotnet.microsoft.com/download/dotnet/5.0) (Only need this if you are trying to run the code otherwise please see [releases](https://github.com/JayArrowz/PancakeTokenSniper/releases) it provides binaries)
-
 ## Config
 The Config is listed in `appsettings.json` There are values which you will have to set yourself, these are denoted with `xxx`.
 
