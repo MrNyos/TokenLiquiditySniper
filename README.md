@@ -20,7 +20,7 @@ Both are obtained from https://moralis.io for free. You will have to navigate to
 Remember `BscNode` should be WS mainnet Endpoints and `BscHttpApi` should be Http endpoints
 ![image](https://user-images.githubusercontent.com/49910176/131349432-a4768c58-526c-407e-8cf6-547e1aacebf5.png)
 
-**  WE RECOMMEND USING A PRIVATE NODE AS ITS FASTER AND MORE STABLE **
+**WE RECOMMEND USING A PRIVATE NODE AS ITS FASTER AND MORE STABLE**
 
 ### Bsc Scan API Key
 The BSC Scan API key is obtained for free from https://bscscan.com/myapikey
