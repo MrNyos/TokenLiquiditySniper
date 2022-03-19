@@ -50,6 +50,7 @@ You can set a delay on the buying buy setting the value `BuyDelaySeconds` to gre
 ## Selling
 The Sniper automatically sells once a certain percentage of profit is made. This is defined in the config key `ProfitPercentageMargin`
 "SellSlippage" modifies slippage.
+"StopLoss" modifies the hard stop loss.
 
 ## Contributing
 This is a closed code project because of the future "dev fee", in order to contribute please open issues and suggestions :)
