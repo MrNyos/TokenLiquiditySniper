@@ -5,6 +5,8 @@ Feel free to scan it for viruses as there are none, its 100% safe.**
 BSC BNB Pancake token sniper
 The BSC token sniper listens for new blocks on BSC relating to the pancake swap factory contract. The `createPair` log event is emitted on the pancake swap factory whenever a new liquidity pool is added. The sniper will filter the logs from these blocks to find these `createPair` events. Then with the correct RUG checks it will buy the token, after a certain amount of profit has been made it will automatically sell the token. The token sniper will also listen to the chain and filter out transactions which call the function `addLiquidityETH` these events will be sniped and go through the relevent checks.
 
+## Socials
+Join our discord server: https://discord.gg/ABxQWqSP3Q
 ## Donations
 This is a free project but any funding is appricated.
 ETH/BNB: 0x79369eA75b9e79656bF8fE3e7AFF6B0E0f37B12D
