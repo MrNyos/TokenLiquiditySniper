@@ -66,6 +66,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Batzal**
 * **Lucyx**
 
+## Features
+- Snipe new tokens
+- Rugpull checks
+- Online and manual Honeypot discovery.
+- Dynamic blacklist
+- Hard stop loss
+
 ## TODO
 - Support Uniswap and other liquidity providers
 - Persist bought assets on Postgres
