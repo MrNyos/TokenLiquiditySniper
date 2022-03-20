@@ -31,7 +31,15 @@ Remember `BscNode` should be WS mainnet Endpoints and `BscHttpApi` should be Htt
 The BSC Scan API key is obtained for free from https://bscscan.com/myapikey
 
 ## Running the project
-If you want to run the project you can go to [releases](https://github.com/JayArrowz/PancakeTokenSniper/releases) and a binary that will execute on your OS, or install Net5.0 then compile and run the application. You can use `dotnet run BscTokenSniper` to do this.
+If you want to run the project you can go to [releases](https://github.com/JayArrowz/PancakeTokenSniper/releases) and a binary that will execute on your OS.
+
+## Features
+- Snipe new tokens
+- Rugpull checks
+- Online and manual Honeypot discovery
+- Dynamic blacklist
+- Hard stop loss
+- Whitelist
 
 ## Rug Checks
 There are specific checks involved that this sniper does when buying tokens. Some config values in appsettings.json inside `SniperConfiguration` are used to influence the rug checks. You can disable the Rug checks by setting the `RugCheckEnabled` to false. Be warned this is dangerous.
@@ -65,13 +73,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **MrNyos**
 * **Batzal**
 * **Lucyx**
-
-## Features
-- Snipe new tokens
-- Rugpull checks
-- Online and manual Honeypot discovery.
-- Dynamic blacklist
-- Hard stop loss
 
 ## TODO
 - Support Uniswap and other liquidity providers
