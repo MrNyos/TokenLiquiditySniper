@@ -1,4 +1,4 @@
-# PancakeSwap Token Sniper
+# BSC Token Sniper
 **This is a closed code project because of future implementation of dev fees, right now there are 0 fees as we are still building the product.
 Feel free to scan it for viruses as there are none, its 100% safe.**
 
