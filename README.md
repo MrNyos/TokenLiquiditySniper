@@ -37,9 +37,11 @@ If you want to run the project you can go to [releases](https://github.com/JayAr
 - Snipe new tokens
 - Rugpull checks
 - Online and manual Honeypot discovery
-- Dynamic blacklist
+- Dynamic and persistent blacklist
 - Hard stop loss
 - Whitelist
+- Full DB support
+- Trade tracking and continue
 
 ## Rug Checks
 There are specific checks involved that this sniper does when buying tokens. Some config values in appsettings.json inside `SniperConfiguration` are used to influence the rug checks. You can disable the Rug checks by setting the `RugCheckEnabled` to false. Be warned this is dangerous.
